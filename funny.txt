@@ -1,1 +1,2 @@
 This file will contain a short silly funny story.
+next line of the story
